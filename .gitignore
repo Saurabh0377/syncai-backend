@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+*.pdf
+*.json
+node_modules/
